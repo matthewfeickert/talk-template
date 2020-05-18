@@ -84,12 +84,24 @@ body {
     bottom: 2em;
 }
 
+.tiny {
+    font-size: 0.6em;
+}
+
 .smaller {
+    font-size: 0.8em;
+}
+
+.normal {
+    font-size: 1em;
+}
+
+.large {
     font-size: 1.2em;
 }
 
-.tiny {
-    font-size: 0.6em;
+.huge {
+    font-size: 1.5em;
 }
 
 a {
