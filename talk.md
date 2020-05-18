@@ -6,7 +6,10 @@ Subtitle of talk
 
 <br>
 
-Matthew Feickert<br>
+.huge.blue[Matthew Feickert]<br>
+.huge[(University of Illinois at Urbana-Champaign)]
+.center.width-5[[![illinois_logo](assets/logos/logo_institution_small.png)](https://physics.illinois.edu/)]<br>
+<br>
 [matthew.feickert@cern.ch](mailto:matthew.feickert@cern.ch)
 
 [Talk Event Name](https://talk-event-url)
