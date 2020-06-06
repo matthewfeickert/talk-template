@@ -208,6 +208,14 @@ td {
     height: auto;
 }
 
+.solid {
+  border-style: solid;
+}
+
+.dashed {
+  border-style: dashed;
+}
+
 .width-5 * {
     width: 5%;
 }
